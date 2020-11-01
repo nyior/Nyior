@@ -1,13 +1,13 @@
 <h1 align='left'> Hi there! :wave:  I'm <a href="https://nyior-clement.netlify.app"> Nyior Clement :smiley:</a></h1>
 
 <p align='left'>
-Budding Software Engineer and technical writer from Nigeria. Trust me, I have passion for technology, I really love to learn and get better everyday and I enjoy helping other people when/if I can. I'm currently building cool things as an intern at <a href="https://mlh.io/"> Major League Hackig</a> 
+Budding Software Engineer and technical writer from Nigeria. Trust me, I have __passion for technology__, I really __love to learn__ and get better everyday and I enjoy __helping other people__ when/if I can. I'm currently building :computer: cool things as an intern at <a href="https://mlh.io/"> Major League Hackig</a> 
 </p>
 
 <p align='left'>
-  <a href="https://dev.to/nyior"><img height="30" src="https://www.google.com/search?q=dev.to+images&source=lnms&tbm=isch&sa=X&ved=2ahUKEwizzbni5uDsAhWRFxQKHYH6C9EQ_AUoAXoECAYQAw&biw=1366&bih=625#imgrc=suMGi8Q7-C2JfM"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/gmelodiecruz"><img height="30" src=""></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gabriel-de-melo-cruz/"><img height="30" src=""></a>
+  <a href="https://dev.to/nyior"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/dev.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/nyior_clement"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/twitter.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nyior-clement-252972146/"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/linkedin.png"></a>
 </p>
 
 <h3>Things I code with</h3>
