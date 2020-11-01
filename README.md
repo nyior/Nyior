@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align='left'> Hi there! :wave:  I'm <a href="https://nyior-clement.netlify.app"> Nyior Clement :smiley:</a></h1>
 
-<!--
-**Nyior/Nyior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  Budding Software Engineer and technical writer from Nigeria. Trust me, I have passion for technology, I really love to learn and get better everyday
+  and I enjoy helping other people when/if I can. I'm currently building cool things as an intern at <a href="https://mlh.io/"> Major League Hackig</a>
+  
+  
+</p>
 
-Here are some ideas to get you started:
+<p align='left'>
+  <a href="https://dev.to/nyior"><img height="30" src=""></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/gmelodiecruz"><img height="30" src=""></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gabriel-de-melo-cruz/"><img height="30" src=""></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Things I code with</h3>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-brightgreen?style=flat-square&logo=python&logoColor=white" />
+</p>
