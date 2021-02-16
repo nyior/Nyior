@@ -1,7 +1,8 @@
 <h1 align='left'> Hi there! :wave:  I'm <a href="https://nyior-clement.netlify.app"> Nyior Clement :smiley:</a></h1>
 
 <p align='left'>
-Budding Software Engineer and technical writer from Nigeria. Trust me, I have <i>passion for technology</i>, I really <i>love to learn</i> and get better everyday and I enjoy <i>helping other people</i> when/if I can. I'm currently trying to improve my Python + JS + Vue.js + Django skills, reading the Little Book of Common Sense Investing By John C. Boogle, and I'd start learning Node.js on the 1st of February :) <br>
+Budding Software Engineer and technical writer from Nigeria. Trust me, I have <i>passion for technology</i>, I really <i>love to learn</i> and get better everyday and I enjoy <i>helping other people</i> when/if I can. I'm currently trying to improve my Python + JS + Vue.js + Django skills, reading Made to Stick: Why Some Ideas Survive and Others Die
+Book by Chip Heath and Dan Heath, and we are trying to digitize buying and selling in the American University of Nigeria with <b><a href="https://www.aunvendor.me/"> the vendor website</a></b><br>
   
 You could read more about me and find some of my articles <b><a href="https://nyior-clement.netlify.app/"> HERE</a></b> <br>
 </p>
