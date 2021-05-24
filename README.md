@@ -1,7 +1,7 @@
 <h1 align='left'> Hi there! :wave:  I'm <a href="https://nyior-clement.netlify.app"> Nyior Clement :smiley:</a></h1>
 
 <p align='left'>
-Budding Software Engineer and technical writer from Nigeria. Trust me, I have <i>passion for technology</i>, I really <i>love to learn</i> and get better everyday and I enjoy <i>helping other people</i> when/if I can. I'm currently trying to improve my Python + JS + Vue.js + Django skills, reading Computer Science Distilled by Wladston Ferreira Filho. I'm currently trying to revolutionize URL shortening with <b><a href="https://www.clipit.fun/"> CLIPIT</a></b><br>
+Budding Software Engineer and technical writer from Nigeria. Trust me, I have <i>passion for technology</i>, I really <i>love to learn</i> and get better everyday and I enjoy <i>helping other people</i> when/if I can. I'm currently trying to improve my Python + JS + Vue.js + Django skills, reading Computer Science Distilled by Wladston Ferreira Filho. I'm also currently trying to revolutionize URL shortening with <b><a href="https://www.clipit.fun/"> CLIPIT</a></b><br>
   
 You could read more about me and find some of my articles <b><a href="https://nyior-clement.netlify.app/"> HERE</a></b> <br>
 </p>
