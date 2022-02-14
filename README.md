@@ -1,9 +1,9 @@
 <h1 align='left'> Hi there! :wave:  I'm <a href="https://nyior-clement.netlify.app"> Nyior Clement :smiley:</a></h1>
 
 <p align='left'>
-Budding Software Engineer and technical writer from Nigeria. Trust me, I have <i>passion for technology</i>, I really <i>love to learn</i> and get better everyday and I enjoy <i>helping other people</i> when/if I can. I'm currently trying to improve my Python + JS + Vue.js + Django skills, reading Computer Science Distilled by Wladston Ferreira Filho. I'm also currently trying to revolutionize URL shortening with <b><a href="https://www.clipit.fun/"> CLIPIT</a></b><br>
+Fullstack Software Engineer and technical writer. I love to work on meaningful software projects that create impact. When I'm not coding, you'd probably find me writing, reading or playing the badminton. I'm currently trying to improve my Python + JS + Vue.js + Django skills, and reading Sin and Syntax: How to Craft Wickedly Effective Prose by Constance Hale. I'm also currently trying to simplify URL shortening with <b><a href="https://www.clipit.fun/"> CLIPIT</a></b><br>
   
-You could read more about me and find some of my articles <b><a href="https://nyior-clement.netlify.app/"> HERE</a></b> <br>
+Wanna checkout some of my write ups? <a href="https://www.freecodecamp.org/news/author/nyior/"> Freecodecamp</a> | <a href="https://dev.to/nyior"> Dev.to</a>
 </p>
 
 <p align='left'>
