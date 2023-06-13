@@ -1,12 +1,14 @@
 <h1 align='left'> Hi there! :wave:  I'm <a href="https://nyior-clement.netlify.app"> Nyior Clement :smiley:</a></h1>
 
-Fullstack Software Engineer and technical writer. When I'm not coding, you'd probably find me writing, reading or playing the badminton. I'm currently:
+A Developer Advocate at [CloudAMQP](https://www.cloudamqp.com), the world's largest RabbitMQ cloud hosting provider. 
+
+When I'm not creating [content around RabbitMQ](https://www.cloudamqp.com/blog/microservices-and-message-queues-part-1-understanding-message-queues.html) or [LavinMQ ](https://lavinmq.com/documentation/beginner-tutorials) you'd probably find me reading, writing some random stuff or playing the badminton. Right now, I'm:
 
 - 🛠  &nbsp; Trying to help Django Developers rapidly build REST APIs with the [DR-CLI](https://github.com/py-universe/django-rest-cli) tool.
 - ✨ &nbsp; Building a community of Junior to Mid-level Software Engineers & Designers at [py-universe](https://github.com/py-universe)
-- 📚 &nbsp; Reading [The Broker](https://www.jgrisham.com/Books/the-broker/) by John Grishman.
+- 📚 &nbsp; Reading The Pragmmatic Programmer.
   
-Wanna checkout some of my write ups? <a href="https://www.freecodecamp.org/news/author/nyior/"> Freecodecamp</a> | <a href="https://dev.to/nyior"> Dev.to</a>
+Want to checkout some of my write ups? <a href="https://www.freecodecamp.org/news/author/nyior/"> Freecodecamp</a> | <a href="https://dev.to/nyior"> Dev.to</a>
 
 <p align='left'>
   <a href="https://dev.to/nyior"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/dev.png"></a>&nbsp;&nbsp;
