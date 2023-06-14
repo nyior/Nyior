@@ -1,6 +1,6 @@
 <h1 align='left'> Hi there! :wave:  I'm <a href="https://nyior-clement.netlify.app"> Nyior Clement :smiley:</a></h1>
 
-A Developer Advocate at [CloudAMQP](https://www.cloudamqp.com), the world's largest RabbitMQ cloud hosting provider. 
+A Developer Advocate at [CloudAMQP](https://www.cloudamqp.com), one of the world's largest RabbitMQ cloud hosting provider. 
 
 When I'm not creating [content around RabbitMQ](https://www.cloudamqp.com/blog/microservices-and-message-queues-part-1-understanding-message-queues.html) or [LavinMQ ](https://lavinmq.com/documentation/beginner-tutorials) you'd probably find me reading, writing some random stuff or playing the badminton. Right now, I'm:
 
