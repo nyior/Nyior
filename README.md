@@ -6,7 +6,7 @@ When I'm not creating [content around RabbitMQ](https://www.cloudamqp.com/blog/m
 
 - 🛠  &nbsp; Trying to help Django Developers rapidly build REST APIs with the [DR-CLI](https://github.com/py-universe/django-rest-cli) tool.
 - ✨ &nbsp; Building a community of Junior to Mid-level Software Engineers & Designers at [py-universe](https://github.com/py-universe)
-- 📚 &nbsp; Reading The Pragmmatic Programmer.
+- 📚 &nbsp; Reading Guns, Germs, and Steel by Jared Diamond.
   
 Want to checkout some of my write ups? <a href="https://www.freecodecamp.org/news/author/nyior/"> Freecodecamp</a> | <a href="https://dev.to/nyior"> Dev.to</a>
 
