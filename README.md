@@ -2,13 +2,15 @@
 
 A Developer Advocate at [CloudAMQP](https://www.cloudamqp.com), one of the world's largest RabbitMQ cloud hosting provider. 
 
-When I'm not creating [content around RabbitMQ](https://www.cloudamqp.com/blog/microservices-and-message-queues-part-1-understanding-message-queues.html) or [LavinMQ ](https://lavinmq.com/documentation/beginner-tutorials) you'd probably find me reading, writing some random stuff or playing the badminton. Right now, I'm:
+When I'm not creating [content around RabbitMQ](https://www.cloudamqp.com/blog/microservices-and-message-queues-part-1-understanding-message-queues.html) or [LavinMQ ](https://lavinmq.com/documentation/beginner-tutorials) you'd probably find me reading, writing or playing the badminton. Right now, I'm:
 
-- 🛠  &nbsp; Trying to help Django Developers rapidly build REST APIs with the [DR-CLI](https://github.com/py-universe/django-rest-cli) tool.
+- 🛠  &nbsp; Helping Django Developers rapidly build REST APIs with the [DR-CLI](https://github.com/py-universe/django-rest-cli) tool.
 - ✨ &nbsp; Building a community of Junior to Mid-level Software Engineers & Designers at [py-universe](https://github.com/py-universe)
-- 📚 &nbsp; Reading Guns, Germs, and Steel by Jared Diamond.
+- 📚 &nbsp; Reading Mindset: The New Psychology of Success by Carol Dweck.
   
-Want to checkout some of my write ups? <a href="https://www.freecodecamp.org/news/author/nyior/"> Freecodecamp</a> | <a href="https://dev.to/nyior"> Dev.to</a>
+I have write-ups all over the web, but you can start from here:
+- <a href="https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/"> Freecodecamp</a>
+- <a href="https://dev.to/nyior"> Dev.to</a> : Most of the blogs here were written when I was still young and naive. I mostly just naive now :-)
 
 <p align='left'>
   <a href="https://dev.to/nyior"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/dev.png"></a>&nbsp;&nbsp;
@@ -23,7 +25,6 @@ Want to checkout some of my write ups? <a href="https://www.freecodecamp.org/new
   <img alt="Djangorestframework" src="https://img.shields.io/badge/-Djangorestframework-red?style=flat-square&logo=djangorestframework&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-blue?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-blue?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-orange?style=flat-square&logo=Netlify&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=azure&logoColor=white" />
