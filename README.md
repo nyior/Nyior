@@ -1,19 +1,10 @@
-<h1 align='left'> Hi there! :wave:  I'm <a href="https://nyior-clement.netlify.app"> Nyior Clement :smiley:</a></h1>
+<h1 align='left'> Hi there! :wave:  I'm  Nyior Clement :smiley:</a></h1>
 
-A Developer Advocate at [CloudAMQP](https://www.cloudamqp.com), one of the world's largest RabbitMQ cloud hosting provider. 
+The lead Author & AI Evangelist @ [Guidely](https://guidely.tech/). 
 
-When I'm not creating [content around RabbitMQ](https://www.cloudamqp.com/blog/microservices-and-message-queues-part-1-understanding-message-queues.html) or [LavinMQ ](https://lavinmq.com/documentation/beginner-tutorials) you'd probably find me reading, writing or playing the badminton. Right now, I'm:
-
-- 🛠  &nbsp; Helping Django Developers rapidly build REST APIs with the [DR-CLI](https://github.com/py-universe/django-rest-cli) tool.
-- ✨ &nbsp; Building a community of Junior to Mid-level Software Engineers & Designers at [py-universe](https://github.com/py-universe)
-- 📚 &nbsp; Reading Mindset: The New Psychology of Success by Carol Dweck.
-  
-I have write-ups all over the web, but you can start from here:
-- <a href="https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/"> Freecodecamp</a>
-- <a href="https://dev.to/nyior"> Dev.to</a> : Most of the blogs here were written when I was still young and naive. I mostly just naive now :-)
+I'm currently reading War and Peace by Leo Tolstoy.
 
 <p align='left'>
-  <a href="https://dev.to/nyior"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/dev.png"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/nyior_clement"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/twitter.png"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nyior-clement-252972146/"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/linkedin.png"></a>
 </p>
